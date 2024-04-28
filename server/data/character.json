@@ -1,0 +1,17 @@
+{
+  "totalLevels": 3,
+  "classes": [
+    {
+      "level": 1,
+      "class": "fighter"
+    },
+    {
+      "level": 2,
+      "class": "fighter"
+    },
+    {
+      "level": 3,
+      "class": "monk"
+    }
+  ]
+}
